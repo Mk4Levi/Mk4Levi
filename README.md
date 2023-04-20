@@ -1,5 +1,5 @@
 
-# Hi👋🏻, I'm Manthan 
+# Hi👋🏻, I'm Manthan Kumar
 
 
 ## 🚀 About Me
