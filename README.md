@@ -38,7 +38,6 @@
 <p><img align="left" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api?username=Mk4Levi&count_private=true&show_icons=true&theme=blue-green&locale=en" alt="Manthan-GitHub-Stats" /></p>
 
 <p><img align="right" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api/top-langs?username=Mk4Levi&show_icons=true&theme=github_dark&locale=en&layout=compact&langs_count=10" alt="my-top-language-stats" /></p>
-<br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mk4Levi&theme=github-dark-blue" alt="Manthan-streak-stats" /></p>
 
