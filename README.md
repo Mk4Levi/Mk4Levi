@@ -9,7 +9,7 @@
 
 - 💻 My Personal Website => [www.Manthan.com](https://manthan-mk.vercel.app/)
 
-- 👨‍💻 All of my Projects are available at => [www.Manthan-Projects.com](https://manthan-portfolio-mk.netlify.app/)
+- 👨‍💻 All of my Projects are available at => [www.Manthan-Projects.com](https://manthan-projects.netlify.app/)
 
 - 👨‍💻 Check out my Skills at => [www.Manthan.com/mySkills](https://manthan-mk.vercel.app/#section-2)
 
