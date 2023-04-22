@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Typing-MK">
+<img align="right" width="300" height="300" src="https://img.icons8.com/plasticine/100/000000/github.png" alt="Typing-MK">
 
 # Hi👋🏻, I'm Manthan Kumar
 
