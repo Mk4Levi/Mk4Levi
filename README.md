@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://img.icons8.com/plasticine/100/000000/github.png" alt="Typing-MK">
+<img align="right" width="300" height="300" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Pic">
 
 # Hi👋🏻, I'm Manthan Kumar
 
@@ -11,9 +11,9 @@
 
 - 💼 All of my Projects are available at => [www.Manthan-Projects.com](https://manthan-projects.netlify.app/)
 
-- ✍️ Check out my Skills at => [www.Manthan.com/mySkills](https://manthan-mk.vercel.app/#section-2)
+- ✍️ Check out my Skills at => [www.Manthan.com/My-Skills](https://manthan-mk.vercel.app/#section-2)
 
-- 📫 How to reach me =>  [www.Manthan.com/contactMe](https://manthan-mk.vercel.app/#section-7)
+- 📫 How to reach me =>  [www.Manthan.com/Contact-Me](https://manthan-mk.vercel.app/#section-7)
 
 ### __
 
