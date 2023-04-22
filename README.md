@@ -20,12 +20,12 @@
 ## 🔗 Connect With Me
 <p align="left">
 
-<a href="https://twitter.com/Mk4Coder" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="margin-right:10px" title="TWITTER" /></a>
-<a href="https://github.com/Mk4Levi" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" style="margin-right:10px" title="GITHUB" /></a>
-<a href="https://www.linkedin.com/in/mk4coder/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px" title="LINKEDIN" /></a>
+<a href="https://twitter.com/Mk4Coder" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/twitter.png" alt="Twitter" height="40" width="50" style="margin-right:10px" title="TWITTER" /></a>
+<a href="https://github.com/Mk4Levi" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/github.png" alt="GitHub" height="40" width="50" style="margin-right:10px" title="GITHUB" /></a>
+<a href="https://www.linkedin.com/in/mk4coder" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" alt="LinkedIn" height="40" width="50" style="margin-right:10px" title="LINKEDIN" /></a>
  <a href="mailto:mksoul1811@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png" alt="Gmail" height="40" width="50" style="margin-right:10px" title="GMAIL" /></a>
-<a href="https://manthan-mk.vercel.app/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Porfolio" height="30" width="40" style="margin-right:10px" title="Portfolio" /></a>
-<a href="https://www.reddit.com/user/Mkp_Reddit" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="30" width="40" style="margin-right:10px" title="Reddit" /></a>
+<a href="https://manthan-mk.vercel.app" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/discord.png" alt="Porfolio" height="40" width="50" style="margin-right:10px" title="Portfolio" /></a>
+<a href="https://www.reddit.com/user/Mkp_Reddit" target="_blank" rel="noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/reddit.png" alt="Reddit" height="40" width="50" style="margin-right:10px" title="Reddit" /></a>
  
 
 </p>
