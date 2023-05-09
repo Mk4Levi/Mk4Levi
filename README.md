@@ -1,4 +1,4 @@
-<a href="https://manthan-mk.vercel.app/" target="_blank" rel="noreferrer"><img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="MK-Website"></a>
+<a href="https://manthan-mk.vercel.app/" target="blank" rel="noreferrer"><img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="MK-Website"></a>
 
 # Hi👋🏻, I'm Manthan Kumar
 
