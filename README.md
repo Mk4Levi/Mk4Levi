@@ -13,11 +13,9 @@ I am always eager to learn and work with new technologies and share my knowledge
 
 ### ⚙️ Check Out :
 
-- 💻🌐 My Portfolio-Website => [www.Manthan-Portfolio.com](https://manthan-mk.vercel.app/)
+- 💻🌐 My Portfolio-Website => [www.Manthan-Portfolio.com](https://manthan-mk-portfolio.vercel.app/)
 
-- 💼 All of my Projects are available at => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/project)
-
-- ✍️ Check out my Skills at => [www.Manthan.com/My-Skills](https://manthan-mk.vercel.app/#section-2)
+- 💼 All of my Projects are available at => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/)
 
 - 📫 How to reach me =>  [www.Manthan.com/Contact-Me](https://manthan-mk.vercel.app/#section-7)
 
