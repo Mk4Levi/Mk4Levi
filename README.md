@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=29&multiline=true&width=700&lines=Welcome+to+Manthan's+GitHub+Profile)](https://git.io/typing-svg)
 
-<a href="https://manthan-mk.vercel.app/" target="blank" rel="noreferrer"><img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="MK-Website"></a>
+<a href="https://manthan-mk.vercel.app/" target="blank" rel="noreferrer"><img align="right" width="300" height="300" src="./assets/socials/mk-logo.png" alt="MK-Website"></a>
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Manthan Kumar
 
@@ -26,12 +26,12 @@
 ## 🔗 Connect With Me :
 <p align="left">
 
-<a href="https://twitter.com/Mk4Coder" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/twitter.jpg" alt="Twitter" height="40" width="50" style="margin-right:15px" title="TWITTER" /></a>
-<a href="https://github.com/Mk4Levi" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/github.png" alt="GitHub" height="50" width="50" style="margin-right:15px" title="GITHUB" /></a>
-<a href="https://www.linkedin.com/in/mk4coder" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/linkedin.png" alt="LinkedIn" height="40" width="50" style="margin-right:15px" title="LINKEDIN" /></a>
- <a href="mailto:mksoul1811@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/Gmail.png" alt="Gmail" height="40" width="50" style="margin-right:15px" title="GMAIL" /></a>
-<a href="https://discord.io/manthan-discord" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/discord.png" alt="Discord" height="40" width="50" style="margin-right:15px" title="Discord" /></a>
-<a href="https://www.reddit.com/user/Mkp_Reddit" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/reddit.png" alt="Reddit" height="40" width="50" style="margin-right:15px" title="Reddit" /></a>
+<a href="https://twitter.com/Mk4Coder" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/twitter.png" alt="Twitter" height="40" width="50" title="twitter" /></a>
+<a href="https://github.com/Mk4Levi" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/github.png" alt="GitHub" height="50" width="50" title="github" /></a>
+<a href="https://www.linkedin.com/in/mk4coder" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/linkedin.png" alt="LinkedIn" height="40" width="50" title="linkedin" /></a>
+ <a href="mailto:mksoul1811@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/Gmail.png" alt="Gmail" height="40" width="50" title="gmail" /></a>
+<a href="https://discord.io/manthan-discord" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/discord.png" alt="Discord" height="40" width="50" title="discord" /></a>
+<a href="https://www.reddit.com/user/Mkp_Reddit" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/reddit.png" alt="Reddit" height="40" width="50" title="reddit" /></a>
  
 
 </p>
@@ -56,18 +56,18 @@
   <span>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/javascript.png" alt="javascript" width="40" height="40" title="JavaScript"> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/typescript.png" alt="typescript" width="40" height="40" title="TypeScript"> </a>
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="./assets/expressjs.png" alt="Express.js" width="75" height="40" title="Express.js"> </a>
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="./assets/expressjs.png" alt="Express.js" width="80" height="40" title="Express.js"> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.jpg" alt="react" width="50" height="50" title="React.js"> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./assets/nodejs.png" alt="nodejs" width="60" height="50" title="Node.js"> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/mongodb.jpg" alt="mongodb" width="60" height="55" title="MongoDB"> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/mysql.png" alt="mysql" width="50" height="50" title="mySQL"> </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/ title="Git"> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./assets/socials/github.png" alt="git" width="50" height="50"/ title="GitHub" title="GitHub"> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/mysql.png" alt="mysql" width="60" height="60" title="mySQL"> </a> 
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/nextjs.jpg" alt="Next.js" width="75" height="50" title="Next.js"> </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./assets/github.png" alt="git" width="50" height="50"/ title="GitHub" title="GitHub"> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.png" alt="git" width="40" height="40"/ title="Git"> </a> 
  <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="git" width="40" height="40" title="Bootstrap-5"> </a> 
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" width="60" height="50" title="Next.js"> </a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="50" height="50" title="Tailwind"> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/ title="C++"> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/ title="Java"> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/java.png" alt="java" width="40" height="40"/ title="Java"> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/ title="HTML-5"> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/ title="CSS-3"> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/ title="Python"> </a> 
