@@ -1,5 +1,5 @@
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=29&multiline=true&width=700&lines=Welcome+to+Manthan's+GitHub+Profile)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=30&multiline=true&width=700&lines=Welcome+to+MANTHAN's+GitHub+Profile)](https://git.io/typing-svg)
 
 <a href="https://manthan-mk.vercel.app/" target="blank" rel="noreferrer"><img align="right" width="300px" height="300px" src="./assets/socials/mk-logoo.png" alt="MK-Website"></a>
 
