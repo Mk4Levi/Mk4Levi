@@ -8,18 +8,18 @@
 
 ## 🚀 About Me :
 
-### 💻 I am a Full Stack Developer(MERN). I'm passionate about Open-Source Contribution, Full-Stack Web Development, React-Development, WEB-3 and learning new & trending Technological skills. 
+### 💻 I am a Full Stack Developer (MERN). Passionate about Open-Source Contribution, Full-Stack Web Development, React-Development, WEB-3 and learning new & trending Technological skills. 
 <!-- I am always eager to learn and work with new technologies and share my knowledge with others. I am excited to continue growing and learning in my field, and I look forward to connecting with others who share my interests. -->
 
 ### ⚙️ Check Out :
 
-- 💻🌐 My Portfolio-Website => [www.Manthan-Portfolio.com](https://manthan-mk-portfolio.vercel.app/)
+- 💻🌐 <b>My Portfolio-Website => [www.Manthan-Portfolio.com](https://manthan-mk-portfolio.vercel.app/)  </b>
 
-- 💼 All of my Projects are available at => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/)
+- 💼 <b>All of my Projects are available at => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/) </b>
 
-- 📫 How to reach me =>  [www.Manthan.com/Contact-Me](https://manthan-mk.vercel.app/#section-7)
+- 📫 <b>How to reach me =>  [www.Manthan.com/Contact-Me](https://manthan-mk.vercel.app/#section-7) </b> 
 
-- 🌐 My Personal-Frontend-Website =>  [www.Manthan.com](https://manthan-mk.vercel.app/)
+- 🌐 <b>My Personal-Frontend-Website =>  [www.Manthan.com](https://manthan-mk.vercel.app/) </b>
 
 ### __
 
@@ -54,16 +54,16 @@
 
 <h3 align="center"><b>I'm skilled with :</b></h3> 
   <span>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/javascript.png" alt="javascript" width="40" height="40" title="JavaScript"> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/typescript.png" alt="typescript" width="40" height="40" title="TypeScript"> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.jpg" alt="react" width="50" height="50" title="React.js"> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/typescript.png" alt="typescript" width="45" height="45" title="TypeScript"> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/javascript.png" alt="javascript" width="45" height="45" title="JavaScript"> </a>
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="./assets/expressjs.png" alt="Express.js" width="90" height="40" title="Express.js"> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./assets/nodejs.png" alt="nodejs" width="75" height="60" title="Node.js"> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/mongodb.jpg" alt="mongodb" width="70" height="60" title="MongoDB"> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/mysql.png" alt="mysql" width="60" height="60" title="mySQL"> </a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/mongodb.jpg" alt="mongodb" width="70" height="65" title="MongoDB"> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/mysql.png" alt="mysql" width="65" height="60" title="mySQL"> </a> 
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/nextjs.jpg" alt="Next.js" width="75" height="50" title="Next.js"> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./assets/github.png" alt="git" width="50" height="50"/ title="GitHub" title="GitHub"> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.png" alt="git" width="40" height="40"/ title="Git"> </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./assets/github.png" alt="git" width="50" height="55"/ title="GitHub" title="GitHub"> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.png" alt="git" width="50" height="50"/ title="Git"> </a> 
  <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="git" width="40" height="40" title="Bootstrap-5"> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/ title="C++"> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/java.png" alt="java" width="40" height="40"/ title="Java"> </a>
