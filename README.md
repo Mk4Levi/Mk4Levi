@@ -56,22 +56,22 @@
   <span>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/javascript.png" alt="javascript" width="40" height="40" title="JavaScript"> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/typescript.png" alt="typescript" width="40" height="40" title="TypeScript"> </a>
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="./assets/expressjs.png" alt="Express.js" width="80" height="40" title="Express.js"> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.jpg" alt="react" width="50" height="50" title="React.js"> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./assets/nodejs.png" alt="nodejs" width="60" height="50" title="Node.js"> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/mongodb.jpg" alt="mongodb" width="60" height="55" title="MongoDB"> </a> 
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="./assets/expressjs.png" alt="Express.js" width="90" height="40" title="Express.js"> </a>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./assets/nodejs.png" alt="nodejs" width="75" height="60" title="Node.js"> </a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/mongodb.jpg" alt="mongodb" width="70" height="60" title="MongoDB"> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/mysql.png" alt="mysql" width="60" height="60" title="mySQL"> </a> 
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/nextjs.jpg" alt="Next.js" width="75" height="50" title="Next.js"> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./assets/github.png" alt="git" width="50" height="50"/ title="GitHub" title="GitHub"> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.png" alt="git" width="40" height="40"/ title="Git"> </a> 
  <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="git" width="40" height="40" title="Bootstrap-5"> </a> 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="50" height="50" title="Tailwind"> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/ title="C++"> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/java.png" alt="java" width="40" height="40"/ title="Java"> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/ title="HTML-5"> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/ title="CSS-3"> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/ title="Python"> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="SASS"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="50" height="50" title="Tailwind"> </a> 
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="SASS"/> </a> 
   
 </span> 
 
