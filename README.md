@@ -61,7 +61,7 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./assets/nodejs.png" alt="nodejs" width="75" height="60" title="Node.js"> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./assets/mongodb.jpg" alt="mongodb" width="70" height="65" title="MongoDB"> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./assets/mysql.png" alt="mysql" width="65" height="60" title="mySQL"> </a> 
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/nextjs.jpg" alt="Next.js" width="75" height="50" title="Next.js"> </a> 
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/nextjs.jpg" alt="Next.js" width="80" height="50" title="Next.js"> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./assets/github.png" alt="git" width="50" height="50"/ title="GitHub" title="GitHub"> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.png" alt="git" width="40" height="40"/ title="Git"> </a> 
  <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="git" width="40" height="40" title="Bootstrap-5"> </a> 
