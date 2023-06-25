@@ -40,14 +40,14 @@
 
 ## ⚙️ My GitHub Stats :
 
-<p><img align="left" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api?username=Mk4Levi&count_private=true&show_icons=true&theme=blue-green&locale=en" alt="Manthan-GitHub-Stats" /></p>
+<p><img align="left" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api?username=Mk4Levi&count_private=true&show_icons=true&theme=blue-green&locale=en" alt="GitHub-Stats" /></p>
 
-<p><img align="right" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api/top-langs?username=Mk4Levi&show_icons=true&theme=github_dark&locale=en&layout=compact&langs_count=10" alt="my-top-language-stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk4levi&count_private=true&show_icons=true&theme=github_dark&layout=compact" alt="Top-Lang-Stats" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mk4Levi&theme=github-dark-blue" alt="Manthan-streak-stats" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mk4Levi&count_private=true&theme=github-dark-blue" alt="Streak-Stats" /></p>
 
-<span><img src="https://komarev.com/ghpvc/?username=Mk4Levi"></span>
-<a href="https://github.com/Mk4Levi?tab=followers"><img src="https://img.shields.io/github/followers/bhagyamudgal?label=Followers&style=social" alt="GitHub Badge"></a>
+<span><img src="https://komarev.com/ghpvc/?username=Mk4Levi" alt="Profile-Views" ></span>
+<a href="https://github.com/Mk4Levi?tab=followers"><img src="https://img.shields.io/github/followers/Mk4Levi?label=Followers&style=social" alt="My-Followers"></a>
 
 
 <br><br><br><br><br><br>
