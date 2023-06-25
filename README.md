@@ -42,18 +42,18 @@
 
 <p><img align="left" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api?username=Mk4Levi&count_private=true&show_icons=true&theme=blue-green&locale=en" alt="GitHub-Stats" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk4Levi&count_private=true&show_icons=true&theme=github_dark&locale=en&layout=compact&langs_count=10" alt="Top-Lang-Stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk4Levi&count_private=true&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Top-Lang-Stats" width="400px" height="250px" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mk4Levi&count_private=true&theme=github-dark-blue" alt="Streak-Stats" /></p>
 
-<span><img src="https://komarev.com/ghpvc/?username=Mk4Levi" alt="Profile-Views" ></span>
-<a href="https://github.com/Mk4Levi?tab=followers"><img src="https://img.shields.io/github/followers/Mk4Levi?label=Followers&style=social" alt="My-Followers"></a>
+
 
 
 <br><br><br><br><br><br>
 
-<h3 align="center"><b>I'm skilled with :</b></h3> 
   <span>
+   <br>
+   <hr>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.jpg" alt="react" width="50" height="50" title="React.js"> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/typescript.png" alt="typescript" width="45" height="45" title="TypeScript"> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/javascript.png" alt="javascript" width="45" height="45" title="JavaScript"> </a>
@@ -81,7 +81,7 @@
 <p><a href="https://www.buymeacoffee.com/manthan4coder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Manthan-Tech" /></a></p><br><br><br>
 
 
-## Thank You for visiting my GitHub profile.
+## Thank You for visiting my GitHub-Profile.
 
 
 
