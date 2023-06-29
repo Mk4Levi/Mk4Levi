@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://bhagya-mudgal-github-readme-stats.vercel.app/api?username=Mk4Levi&count_private=true&show_icons=true&theme=blue-green&locale=en" alt="GitHub-Stats" /></p>
 
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mk4Levi&count_private=true&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Top-Lang-Stats" width="400px" height="250px" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mk4Levi&count_private=true&theme=github-dark-blue" alt="Streak-Stats" /></p>
 
