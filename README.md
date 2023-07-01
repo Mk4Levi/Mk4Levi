@@ -14,9 +14,9 @@
 
 - 💻🌐 <b>My Portfolio-Website => [www.Manthan-Portfolio.com](https://manthan-mk-portfolio.vercel.app/) </b>
 
-- 📫 <b>How to reach me => [www.Manthan.com/Contact-Me](https://manthan-mk.vercel.app/#section-7) </b>
+- 📫 <b>How to reach me => [www.Manthan.com/Contact-Me](https://manthan-mk.vercel.app/contact) </b>
 
-- 💼 <b>All of my Projects are available at => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/) </b>
+- 💼 <b>All of my Projects are available at => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/projects) </b>
 
 - 🌐 <b>My Personal-Frontend-Website => [www.Manthan.com](https://manthan-mk.vercel.app/) </b>
 
