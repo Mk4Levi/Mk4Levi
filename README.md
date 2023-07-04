@@ -60,14 +60,16 @@
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/nextjs.jpg" alt="Next.js" width="80" height="50" title="Next.js"> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./assets/github.png" alt="git" width="50" height="50" title="GitHub" title="GitHub"> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.png" alt="git" width="40" height="40" title="Git"> </a> 
- <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="git" width="40" height="40" title="Bootstrap-5"> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/java.png" alt="java" width="50" height="50" title="Java"> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML-5"> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS-3"> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="50" height="50" title="Tailwind"> </a> 
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="SASS"> </a> 
+  <a href="https://www.ibm.com/topics/api" target="_blank" rel="noreferrer"> <img src="./assets/api.jpg" alt="api" width="50" height="50" title="Git"> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="./assets/firebase.png" alt="firebase" width="80" height="50" title="Firebase"> </a> 
+ <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer"> <img src="./assets/bootstrap.svg" alt="git" width="40" height="40" title="Bootstrap-5"> </a> 
+  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="./assets/java.png" alt="java" width="50" height="50" title="Java"> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/cpp.svg" alt="cplusplus" width="40" height="40" title="C++"> </a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="html.svg" alt="html5" width="40" height="40" title="HTML-5"> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./assets/css.svg" alt="css3" width="40" height="40" title="CSS-3"> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/python.svg" alt="python" width="40" height="40" title="Python"> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./assets/tailwindcss.svg" alt="Tailwind" width="50" height="50" title="Tailwind"> </a> 
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="./assets/sass.svg" alt="sass" width="40" height="40" title="SASS"> </a> 
   
 </span>
 
