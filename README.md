@@ -65,7 +65,7 @@
  <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer"> <img src="./assets/bootstrap.svg" alt="git" width="40" height="40" title="Bootstrap-5"> </a> 
   <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="./assets/java.png" alt="java" width="50" height="50" title="Java"> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/cpp.svg" alt="cplusplus" width="40" height="40" title="C++"> </a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="html.svg" alt="html5" width="40" height="40" title="HTML-5"> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="./assets/html.svg" alt="html5" width="40" height="40" title="HTML-5"> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./assets/css.svg" alt="css3" width="40" height="40" title="CSS-3"> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./assets/python.svg" alt="python" width="40" height="40" title="Python"> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./assets/tailwindcss.svg" alt="Tailwind" width="50" height="50" title="Tailwind"> </a> 
