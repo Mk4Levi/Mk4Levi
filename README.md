@@ -12,13 +12,13 @@
 
 ### ⚙️ Check Out :
 
-- 💻🌐 <b>My Portfolio-Website => [www.Manthan-Portfolio.com](https://manthan-mk-portfolio.vercel.app/) </b>
+- 💻🌐 <b>My Portfolio-WebApp => [www.Manthan-Portfolio.com](https://manthan-mk-portfolio.vercel.app/) </b>
 
-- 💼 <b>All of my Projects are available at => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/projects) </b>
+- 💼 <b>All of my Projects  => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/projects) </b>
 
 - 📫 <b>How to reach me => [www.Manthan.com/Contact-Me](https://manthan-mk-portfolio.vercel.app/contact) </b>
 
-- 🌐 <b>MK-Frontend-Website => [www.Manthan.com](https://manthan-mk.vercel.app/) </b>
+- 🌐 <b>MK-Frontend-Website => [www.MK-Frontend.com](https://manthan-mk.vercel.app/) </b>
 
 ### \_\_
 
