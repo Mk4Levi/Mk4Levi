@@ -14,7 +14,7 @@
 
 - 💻🌐 <b>My Portfolio-WebApp => [www.Manthan-Portfolio.com](https://manthan-mk-portfolio.vercel.app/) </b>
 
-- 💼 <b>All of my Projects  => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/projects) </b>
+- 💼 <b>All of my Projects => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/projects) </b>
 
 - 📫 <b>How to reach me => [www.Manthan.com/Contact-Me](https://manthan-mk-portfolio.vercel.app/contact) </b>
 
@@ -30,8 +30,8 @@
 <a href="https://github.com/Mk4Levi" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/github.png" alt="GitHub" height="50" width="50" title="github" /></a>
 <a href="https://www.linkedin.com/in/mk4coder" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/linkedin.png" alt="LinkedIn" height="40" width="50" title="linkedin" /></a>
 <a href="mailto:mksoul1811@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/Gmail.png" alt="Gmail" height="40" width="50" title="gmail" /></a>
-<a href="https://discord.io/manthan-discord" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/discord.png" alt="Discord" height="40" width="50" title="discord" /></a>
-<a href="https://www.reddit.com/user/Mkp_Reddit" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/reddit.png" alt="Reddit" height="40" width="50" title="reddit" /></a>
+<a href="https://discord.me/manthan-discord-server" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/discord.png" alt="Discord" height="40" width="50" title="discord" /></a>
+<a href="https://www.reddit.com/user/Mkp_1811" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/reddit.png" alt="Reddit" height="40" width="50" title="reddit" /></a>
 
 </p>
 
