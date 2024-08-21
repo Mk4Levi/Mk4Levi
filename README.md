@@ -12,13 +12,13 @@
 
 ### ⚙️ Check Out :
 
-- 💻🌐 <b>My Portfolio-WebApp => [www.Manthan-Portfolio.com](https://manthan-mk-portfolio.vercel.app/) </b>
+- 💻🌐 <b>My Portfolio-WebApp => [manthan-mk-portfolio.vercel.app](https://manthan-mk-portfolio.vercel.app/) </b>
 
-- 💼 <b>All of my Projects => [www.Manthan-Projects.com](https://manthan-mk-portfolio.vercel.app/projects) </b>
+- 💼 <b>All of my Projects => [manthan-mk-portfolio.vercel.app/projects](https://manthan-mk-portfolio.vercel.app/projects) </b>
 
-- 📫 <b>How to reach me => [www.Manthan.com/Contact-Me](https://manthan-mk-portfolio.vercel.app/contact) </b>
+- 📫 <b>How to reach me => [manthan-mk-portfolio.vercel.app/contact](https://manthan-mk-portfolio.vercel.app/contact) </b>
 
-- 🌐 <b>My Anime-Hub webapp => [www.Manthan-Anime-Hub.com](https://manthan-anime-hub.vercel.app/) </b>
+- 🌐 <b>My CodeZone Platform => [mk-codezone.vercel.app](https://mk-codezone.vercel.app/) </b>
 
 ### \_\_
 
@@ -75,7 +75,7 @@
 
 <br> <br>
 
-## ❤️ You can Support me here
+##  You can Support me here
 
 <p><a href="https://www.buymeacoffee.com/manthan4coder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Manthan-Tech" /></a></p><br><br><br>
 
