@@ -29,7 +29,7 @@
 <a href="https://twitter.com/Mk4Coder" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/twitter.png" alt="Twitter" height="40" width="50" title="twitter" /></a>
 <a href="https://github.com/Mk4Levi" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/github.png" alt="GitHub" height="50" width="50" title="github" /></a>
 <a href="https://www.linkedin.com/in/mk4coder" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/linkedin.png" alt="LinkedIn" height="40" width="50" title="linkedin" /></a>
-<a href="mailto:mksoul1811@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/Gmail.png" alt="Gmail" height="40" width="50" title="gmail" /></a>
+<a href="mailto:mksoul1811@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/gmail.png" alt="Gmail" height="40" width="50" title="gmail" /></a>
 <a href="https://discord.me/manthan-discord-server" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/discord.png" alt="Discord" height="40" width="50" title="discord" /></a>
 <a href="https://www.reddit.com/user/Mkp_1811" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/reddit.png" alt="Reddit" height="40" width="50" title="reddit" /></a>
 
@@ -82,8 +82,8 @@
 <br> <br>
 <br> <br>
 
-<!-- ## You can Support me here -->
+## You can support me here :-
 
-<p><a href="https://www.buymeacoffee.com/manthan4coder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Manthan-Tech" /></a></p><br><br><br>
+<p><a href="https://razorpay.me/@manthan-mk"> <img align="left" src="./assets/socials/razorpay.png" height="50" width="210" alt="MK-Razorpay" title="Contribute to my projects" /></a></p><br><br><br>
 
-## Thank You for visiting my GitHub-Profile.
+## ✨Thank You for visiting my GitHub-Profile✨
