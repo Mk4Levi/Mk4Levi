@@ -14,9 +14,9 @@
 
 - 💻🌐 <b>My Portfolio-WebApp => [manthan.cloud](https://manthan.cloud) </b>
 
-- 💼 <b>All of my Projects => [manthan-mk-portfolio.vercel.app/projects](https://manthan-mk-portfolio.vercel.app/projects) </b>
+- 💼 <b>All of my Projects => [manthan.cloud/projects](https://manthan.cloud/projects) </b>
 
-- 📫 <b>How to reach me => [manthan-mk-portfolio.vercel.app/contact](https://manthan-mk-portfolio.vercel.app/contact) </b>
+- 📫 <b>How to reach me => [manthan.cloud/contact](https://manthan.cloud/contact) </b>
 
 - 🌐 <b>My CodeZone Platform => [mk-codezone.vercel.app](https://mk-codezone.vercel.app/) </b>
 
