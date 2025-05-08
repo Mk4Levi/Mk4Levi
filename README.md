@@ -6,7 +6,7 @@
 
 ## 🚀 About Me :
 
-### 💻 I am a Full Stack Developer (MERN). Passionate about Open-Source Contribution, React-Development, Full-Stack Web Dev, WEB-3 and learning new & trending Technological skills.
+### 💻 I am a Full Stack Developer (MERN). Passionate about building robust, user-centric web applications and contributing to open-source projects. Specializing in Next.js, Full Stack Web Development, and emerging Web3 technologies. Continuously expanding my skill set to stay ahead in the ever-evolving tech landscape.
 
 <!-- I am always eager to learn and work with new technologies and share my knowledge with others. I am excited to continue growing and learning in my field, and I look forward to connecting with others who share my interests. -->
 
