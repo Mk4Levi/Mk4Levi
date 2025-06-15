@@ -1,12 +1,12 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DFF0A&size=30&multiline=true&width=700&lines=Welcome+to+MANTHAN's+GitHub+Profile)](https://git.io/typing-svg)
 
-<a href="https://manthan-mk-portfolio.vercel.app/" target="blank" rel="noreferrer"><img align="right" width="300px" height="300px" src="./assets/socials/mk-logo.png" alt="MK-Website"></a>
+<a href="https://manthan.cloud/" target="blank" rel="noreferrer"><img align="right" width="300px" height="300px" src="./assets/socials/mk-logo.png" alt="MK-Website"></a>
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Manthan Kumar
 
 ## 🚀 About Me :
 
-### 💻 I am a Full Stack Developer (MERN). Passionate about building robust, user-centric web applications and contributing to open-source projects. Specializing in Next.js, Full Stack Web Development, and emerging Web3 technologies. Continuously expanding my skill set to stay ahead in the ever-evolving tech landscape.
+### 💻 I am a Software Development Engineer with over 2 years of experience in building robust, scalable, and user-centric applications. My core expertise lies in Full-Stack Development, with a strong passion for Open-Source Contributions and staying ahead with modern technologies, including Web3. Continuously expanding my skill set to stay ahead in the ever-evolving tech landscape.
 
 <!-- I am always eager to learn and work with new technologies and share my knowledge with others. I am excited to continue growing and learning in my field, and I look forward to connecting with others who share my interests. -->
 
