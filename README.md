@@ -6,7 +6,9 @@
 
 ## 🚀 About Me :
 
-### 💻 I am a Software Development Engineer with over 2 years of experience in building robust, scalable, and user-centric applications. My core expertise lies in Full-Stack Development, with a strong passion for Open-Source Contributions and staying ahead with modern technologies, including Web3. Continuously expanding my skill set to stay ahead in the ever-evolving tech landscape.
+### 💻 With over 3 years of experience, I am passionate about leadership, innovation, and creating meaningful impact through collaboration, strategic thinking, and continuous growth in dynamic environments. I thrive in collaborative settings where I can contribute valuable insights, foster teamwork, and continuously evolve both personally and professionally. 
+
+Always eager to connect with like-minded professionals, I enjoy contributing to impactful initiatives and embracing opportunities for learning, growth, and meaningful collaboration.
 
 <!-- I am always eager to learn and work with new technologies and share my knowledge with others. I am excited to continue growing and learning in my field, and I look forward to connecting with others who share my interests. -->
 
